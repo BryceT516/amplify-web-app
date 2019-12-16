@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.UserEmail {
+  font-weight: normal;
+  padding-right: 10px;
+}
+
+.SignOut {
+  list-style: none;
+}
